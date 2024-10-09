@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "425314294367",
+    "project_id": "fir-storeexpl",
+    "storage_bucket": "fir-storeexpl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425314294367:android:d10d1dca117b784d9519ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseflutterotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWHWDEvKBU_dOQQ-SicKxliVPdg0vvd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425314294367:android:1593f660a639b7a09519ea",
+        "android_client_info": {
+          "package_name": "com.example.firebasestoreexpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWHWDEvKBU_dOQQ-SicKxliVPdg0vvd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425314294367:android:a49544dcbeb555e99519ea",
+        "android_client_info": {
+          "package_name": "ran.am.fire.cloudfirestoreexpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWHWDEvKBU_dOQQ-SicKxliVPdg0vvd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
